@@ -121,6 +121,7 @@ body{
     border:none;
     margin-left:10px;
     transition: .250s;
+    background-color:white;
 }
 
 .btn:hover{
@@ -154,6 +155,7 @@ body{
     border:none;
     margin-left:10px;
     transition: .250s;
+    background-color:white;
 }
 
 .add__new-slider:hover{
@@ -173,6 +175,7 @@ body{
     border:none;
     margin-left:10px;
     transition: .250s;
+    background-color:white;
 }
 
 .stop:hover{
